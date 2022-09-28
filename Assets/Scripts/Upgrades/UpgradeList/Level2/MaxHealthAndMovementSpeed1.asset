@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9432213b6cf2edb4585a3e736ef5a1aa, type: 3}
+  m_Name: MaxHealthAndMovementSpeed1
+  m_EditorClassIdentifier: 
+  levelOfUpgrade: 2
+  playerText: Tu vida y velocidad de movimiento aumentan en 1 nivel.
+  enemyText: La vida de los enemigos aumenta en 1 nivel.
+  variableToChangePlayer1: 1
+  variableToChangePlayer2: 3
+  variableToChangeEnemy1: 1
+  variableToChangeEnemy2: 0
+  levelsToUpgradePlayer1: 1
+  levelsToUpgradePlayer2: 1
+  levelsToUpgradeEnemy1: 1
+  levelsToUpgradeEnemy2: 0
